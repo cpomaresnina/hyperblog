@@ -1,8 +1,9 @@
 body
 {
+    background: #1e1f24;
     text-align: center;
     font-family: "Arial";
-    color:red;
+    color: #333;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -37,4 +38,16 @@ body
     font-weight: normal;
     font-size: 0.8em;
     margin: 0 0 0 1em;
+}
+
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
+
+#post
+{
+    background: white;
+    padding: 1em;
 }
